@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\bin\Debug\net7.0\Banco-microsoft.exe
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\bin\Debug\net7.0\Banco-microsoft.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\bin\Debug\net7.0\Banco-microsoft.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\bin\Debug\net7.0\Banco-microsoft.dll
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\bin\Debug\net7.0\Banco-microsoft.pdb
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\Banco-microsoft.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\Banco-microsoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\Banco-microsoft.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\Banco-microsoft.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\Banco-microsoft.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\Banco-microsoft.dll
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\refint\Banco-microsoft.dll
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\Banco-microsoft.pdb
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\Banco-microsoft.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\Banco-microsoft\obj\Debug\net7.0\ref\Banco-microsoft.dll
